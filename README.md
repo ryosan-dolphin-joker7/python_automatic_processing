@@ -1,0 +1,2 @@
+# python_automatic_processing
+シゴトがはかどる Python自動処理の教科書のファイル
