@@ -12,7 +12,7 @@ file_path = "/path/to/your/excel/file.xlsx"
 df = pd.read_excel(file_path)
 
 # データベースに保存する処理を記述する
-# ...
+# 
 
 # データベースからデータを取得する処理を記述する
 # ...
